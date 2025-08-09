@@ -10,10 +10,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 I’m currently working on a **Tourism Management System**
+- 🚀 I’m currently working on a **Student Assignment Management System**
 - 🌱 Learning **Next.js** and advanced React patterns
 - 🎯 My goal is to become a **Full Stack MERN Developer**
-- 📫 Reach me at: arian.dev@gmail.com
+- 📫 Reach me at: arian2004feni@gmail.com
 
 ---
 
