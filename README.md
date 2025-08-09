@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" />
+  <img src="https://i.ibb.co.com/60LwH54P/github.png" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Arian</h1>
