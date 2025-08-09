@@ -79,7 +79,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arian2004feni&show_icons=true&theme=react" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arian2004feni&theme=react&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arian2004feni&layout=compact&theme=react" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" />-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arian2004feni&layout=compact&theme=react" /> 
 </p>
 
