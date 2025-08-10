@@ -65,7 +65,7 @@
   <a href="https://facebook.com/arian2004feni" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
   </a>
-  <a href="https://wa.me/01638666280" target="_blank">
+  <a href="https://wa.me/+8801638666280" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   </a>
 </p>
