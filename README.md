@@ -53,19 +53,19 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/arian2004feni" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/arian2004feni" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/YOUR_USERNAME" target="_blank">
+  <a href="https://x.com/arian2004feni" target="_blank">
     <img alt="X (Twitter)" src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white" />
   </a>
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <a href="https://facebook.com/arian2004feni" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
   </a>
-  <a href="https://wa.me/YOUR_NUMBER" target="_blank">
+  <a href="https://wa.me/01638666280" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -74,7 +74,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=arian2004feni&show_icons=true&theme=react" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arian2004feni&layout=compact&theme=react" /> 
