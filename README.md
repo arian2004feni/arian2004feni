@@ -19,7 +19,6 @@
 
 ## ⚙️ Skills
 
-### 🖌 Frontend
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
@@ -32,7 +31,6 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
 </p>
 
-### 🖥️ Backend & Database
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
@@ -43,7 +41,6 @@
   <img alt="dotenv" src="https://img.shields.io/badge/dotenv-ADS?logo=dotenv&logoColor=white" />
 </p>
 
-### 🚀 Deploy & VCS
 <p>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
